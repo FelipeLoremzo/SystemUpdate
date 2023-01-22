@@ -16,7 +16,9 @@ It's good practice to run these commands regularly to keep your system up-to-dat
 
 <h3>How to use</h3>
 1 - Download the script https://github.com/FelipeLoremzo/SystemUpdate.git;
+
 2 - Make the "system-update" script executable with "sudo chmod +x sistem-update.sh";
+
 3 - Run the script with "sudo ./system-update.sh".
 
 This script will update your package lists, update all packages, update packages that require other packages to be removed or installed, remove all packages that were installed as dependencies but are no longer needed, and clear the package cache.
