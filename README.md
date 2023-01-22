@@ -14,7 +14,7 @@ For example;
 
 It's good practice to run these commands regularly to keep your system up-to-date and free of unnecessary files.
 
-<h3>How to use<h3>
+<h3>How to use</h3>
 
 1 - Download the script https://github.com/FelipeLoremzo/SystemUpdate.git
 2 - Make the "system-update" script executable with "sudo chmod +x sistem-update.sh"
